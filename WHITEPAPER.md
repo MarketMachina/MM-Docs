@@ -45,10 +45,11 @@ At the heart of Market Machina are advanced analytics, automated strategies, and
 ### 2. Vision and Mission
 
 **Vision:**  
-To establish an open, decentralized, and innovation-driven ecosystem that democratizes access to cutting-edge trading strategies, intelligent market insights, and reliable automated systems.
+To establish an open, decentralized, and innovation-driven ecosystem that democratizes access to cutting-edge trading strategies, intelligent market insights, reliable automated systems, and comprehensive investment services.
 
 **Mission:**  
-- Provide traders and investors with advanced, easy-to-use analytical tools and trading solutions.  
+- Provide market participants with advanced, easy-to-use analytical tools and trading solutions. 
+- Build robust investment platforms enabling diversified and tactical opportunities. 
 - Foster a global, community-driven environment where token holders influence the development, operation, and strategic direction of the Market Machina ecosystem. 
 - Continuously research, refine, and deploy AI-driven technologies and proven quantitative models within a fully transparent, manipulation-resistant infrastructure.
 
