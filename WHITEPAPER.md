@@ -38,7 +38,7 @@
 
 **Market Machina** is a forward-looking ecosystem at the intersection of trading, quantitative mathematics, and advanced artificial intelligence (AI). Developed by a team of seasoned experts, it aims to empower traders and investors—regardless of their experience level—to consistently generate returns in any market environment.
 
-At the heart of Market Machina are advanced analytics, automated strategies, and AI-driven insights, all offered without imposing direct fees. To access the entire suite of services, users purchase and stake the **MACHINA** token, which itself represents a promising, secure, and growth-oriented asset. Its value is supported by a continually expanding range of solutions and safeguarded by transparent, tamper-proof smart contracts.
+At the heart of Market Machina are mathematical models, automated strategies, and AI-driven insights, all offered without imposing direct fees. To access the entire suite of services, users purchase and stake the **MACHINA** token, which itself represents a promising, secure, and growth-oriented asset. Its value is supported by a continually expanding range of solutions and safeguarded by transparent, tamper-proof smart contracts.
 
 ---
 
