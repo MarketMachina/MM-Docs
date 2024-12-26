@@ -77,7 +77,7 @@ A suite of AI agents aggregates and analyzes publicly available trading ideas fr
 Three core trading systems are currently in testing, each available in two modes:
 
 - **Manual Mode:** Provides alerts and signals, empowering traders to execute strategies manually.  
-- **Automated Mode:** Fully autonomous algorithms capable of trading directly on users’ exchange accounts (currently supporting Binance and ByBit).
+- **Automated Mode:** Fully autonomous algorithms capable of trading directly on users’ exchange accounts (currently supporting Binance and ByBit, with DEX integration upcoming).
 
 ##### 4.2.1 On-Chain Metrics System
 Leverages modified on-chain metrics—NUPL, AVIV, MVRV, and Reserved Risk. By analyzing metric data within a rolling window, the system calculates Z-scores to identify four dynamic trading zones. Each zone is associated with specific trading rules, allowing the strategy to effectively respond to diverse market conditions.
