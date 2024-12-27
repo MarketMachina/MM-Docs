@@ -150,12 +150,12 @@ Staking MACHINA tokens enables participants to earn rewards while granting full 
 A total of 10 billion MACHINA tokens will be issued, with a fixed supply enforced through immutable smart contracts, ensuring no additional tokens can be minted or issued beyond this cap.
 
 #### 9.1 Token Allocation
-- **Presale (35%)**: Initial funding and liquidity formation through early investments.  
+- **Presale (45%)**: Initial funding and liquidity formation through early investments.  
 - **Marketing (5%)**: Targeted campaigns to enhance brand visibility and user acquisition.  
 - **Research and Development (10%)**: Released at 0.4% of the total supply monthly over 25 months, starting after the commencement of trading, to sustain ongoing innovation in AI, quantitative models, and system capabilities.  
 - **Team and Strategic Partnerships (5%)**: Resources to attract and retain top talent and form strategic alliances that foster long-term growth.  
 - **Ecosystem (10%)**: Staking rewards and incentives for community contributions to the project’s evolution.  
-- **Liquidity (35%)**: Providing liquidity on trading platforms.
+- **Liquidity (25%)**: Providing liquidity on trading platforms.
 
 #### 9.2 Utility and Value Proposition
 MACHINA tokens grant access to the full spectrum of Market Machina’s services. Additionally, stakers receive veMACHINA governance tokens to influence ecosystem direction and the deployment of capital in the DAO.
