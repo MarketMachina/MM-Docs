@@ -223,5 +223,5 @@ Our commitment to continuous innovation and scalability ensures that as the plat
 ---
 
 **For additional information and updates:**  
-- **Website:** https://market-machina.com  
+- **Website:** https://docs.market-machina.com  
 - **Community Channels:** [X (Twitter)](https://x.com/market_machina), [Telegram](https://t.me/market_machina), [Discord](https://discord.gg/tHAbWukwPd)
